@@ -158,8 +158,8 @@ print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
 
-<H3>Output:</H3>
-![image](https://github.com/vidhyasrikachapalayam/Ex-4-NN/assets/119477817/69d9324b-3b60-4870-a49f-fbb2051e28f7)
+Output:
+![image](https://github.com/vidhyasrikachapalayam/Ex-4-NN/assets/119477817/40b62485-70b5-4fee-8aa2-83952b31f4b5)
 
 Program:
 
