@@ -6,8 +6,7 @@ VIDHYASRI.K
 <H3>DATE:</H3>
 10/4/2024
 <H3>EX. NO.4</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
+Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
 <H3>Theory</H3>
