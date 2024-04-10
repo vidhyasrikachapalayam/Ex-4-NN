@@ -159,7 +159,8 @@ print(classification_report(y_test,predictions))
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/vidhyasrikachapalayam/Ex-4-NN/assets/119477817/6ab7949c-7b8d-4db6-96ed-f267cf85c49d)
+![image](https://github.com/vidhyasrikachapalayam/Ex-4-NN/assets/119477817/69d9324b-3b60-4870-a49f-fbb2051e28f7)
+
 Program:
 
 ```
